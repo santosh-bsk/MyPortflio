@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+> https://santosh-bsk.github.io/
 
 :star: Star me on GitHub — it helps!
 
@@ -42,7 +42,6 @@
 ✔️ Interests\
 ✔️ Education\
 ✔️ Online Certification\
-✔️ Experience\
 ✔️ Projects \
 ✔️ Skills \
 ✔️ Resume\
